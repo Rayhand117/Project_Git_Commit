@@ -1,5 +1,5 @@
 sembarang
-1
+satu
 2
 3
 4
@@ -10,3 +10,7 @@ sembarang
 9
 10
 11
+duabelas
+13
+14
+15
